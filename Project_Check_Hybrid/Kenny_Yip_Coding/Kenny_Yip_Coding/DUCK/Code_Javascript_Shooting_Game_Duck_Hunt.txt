@@ -1,0 +1,5 @@
+AUTHOR :  Kenny Yip Coding 
+
+PROJECT : Code Javascript Shooting Game (Duck Hunt)
+
+LINK : https://www.youtube.com/watch?v=YGBi4lR0swY
